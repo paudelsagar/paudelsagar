@@ -86,21 +86,35 @@ Currently, Fonloan is providing its service in multiple banks in Nepal such as ð
 
 ### Airticket Forecasting <br>
 <a href="http://extensodata.com/"> Extensodata Pvt. Ltd. </a> | Jan 2020 - Mar 2020<br><br>
+This is a time-series model that forecasts the number of air tickets in hourly, daily, weekly and monthly level on different flight sectors. This model was used for eSewa.
 
 ### Product Recommender System <br>
 <a href="http://extensodata.com/"> Extensodata Pvt. Ltd. </a> | Aug 2019 - Dec 2019<br><br>
+Product recommendation to the customers who are likely to use it.
 
 ### Sentiment Analysis on Customer Feedbacks <br>
 <a href="http://extensodata.com/"> Extensodata Pvt. Ltd. </a> | Jun 2019 - Jul 2019<br><br>
+Positive, negative, and neutral sentiment analysis on the customer feedbacks.
 
 ### Survival Analysis <br>
 <a href="http://extensodata.com/"> Extensodata Pvt. Ltd. </a> | Mar 2019 - May 2019<br><br>
+Survival analysis is a set of statistical approaches for data analysis where the outcome variable of interest is time until an event occurs.
+
+### FD Conversion and Renewal Prediction
+<a href="http://extensodata.com/"> Extensodata Pvt. Ltd. </a> | Nov 2018 - Feb 2019<br><br>
+FD Conversion module predicts whether the customers open a new FD account or not within a certain time period and FD Renewal module predicts whether a customer renews their Fixed Deposit (FD) account or not within a certain time period.
 
 ### Hadoop cluster setup automation on Local and AWS <br>
 <a href="http://extensodata.com/"> Extensodata Pvt. Ltd. </a> | Sep 2018 - Oct 2018<br><br>
+Big data technologies such as Hadoop, Spark, Hive, Hbase, Sqoop, Kafka installation are automated and can be setup on local clusters with scripts.
 
 ### Anomaly Detection System (ADS) <br>
 <a href="http://extensodata.com/"> Extensodata Pvt. Ltd. </a> | May 2018 - Aug 2018<br><br>
+This system tracks unusual activities of the customers on hourly, daily, weekly, and monthly levels. This helps to track anomalous transactions in order to provide credibility to the customers. Currently, this system is deployed in multiple payment gateway companies such as eSewa, Fonepay, etc.
+
+### Cohort Analysis <br>
+<a href="http://extensodata.com/"> Extensodata Pvt. Ltd. </a> | Aug 2018 - Aug 2018<br><br>
+Cohort analysis is a kind of behavioral analytics that breaks the data in a data set into related groups before analysis. These groups, or cohorts, usually share common characteristics or experiences within a defined time span.
 
 ## Awards and Honors
 
