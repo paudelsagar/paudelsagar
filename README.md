@@ -8,7 +8,7 @@ Hi, I'm Sagar Paudel. I’ve been working for over 4 years as a data scientist i
 
 ## Primary Jobs
 ■ Team Support and Mentorship.<br>
-■ Architecture Designer of DS Product.<br>
+■ Architecture Design of the DS Product.<br>
 ■ Technical Feasibility Study.<br>
 ■ Proof of Concept (POC).<br>
 ■ Coordination with Business Team.<br>
