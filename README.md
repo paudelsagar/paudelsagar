@@ -74,14 +74,14 @@ Hi, I'm Sagar Paudel. I’ve been working for over 4 years as a data scientist i
 ■ Modeling and Packaging<br>
 
 ## Projects
-■ FoneloanBiz <br>
-■ Foneloan <br>
-■ Anomaly Detection System (ADS) <br>
-■ Airticket Forecasting <br>
-■ Survival Analysis <br>
-■ Product Recommender System <br>
-■ Sentiment Analysis on Customer Feedbacks <br>
-■ Hadoop cluster setup automation on Local and AWS <br>
+### FoneloanBiz <br>
+### Foneloan <br>
+### Anomaly Detection System (ADS) <br>
+### Airticket Forecasting <br>
+### Survival Analysis <br>
+### Product Recommender System <br>
+### Sentiment Analysis on Customer Feedbacks <br>
+### Hadoop cluster setup automation on Local and AWS <br>
 
 ## Awards and Honors
 
