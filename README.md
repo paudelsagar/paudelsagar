@@ -75,13 +75,21 @@ Hi, I'm Sagar Paudel. I’ve been working for over 4 years as a data scientist i
 
 ## Projects
 ### FoneloanBiz <br>
+<a href="http://extensodata.com/"> Extensodata Pvt. Ltd. </a> | Jul 2018 - Jun 2019<br><br>
 ### Foneloan <br>
+<a href="http://extensodata.com/"> Extensodata Pvt. Ltd. </a> | Jul 2018 - Jun 2019<br><br>
 ### Anomaly Detection System (ADS) <br>
+<a href="http://extensodata.com/"> Extensodata Pvt. Ltd. </a> | Jul 2018 - Jun 2019<br><br>
 ### Airticket Forecasting <br>
+<a href="http://extensodata.com/"> Extensodata Pvt. Ltd. </a> | Jul 2018 - Jun 2019<br><br>
 ### Survival Analysis <br>
+<a href="http://extensodata.com/"> Extensodata Pvt. Ltd. </a> | Jul 2018 - Jun 2019<br><br>
 ### Product Recommender System <br>
+<a href="http://extensodata.com/"> Extensodata Pvt. Ltd. </a> | Jul 2018 - Jun 2019<br><br>
 ### Sentiment Analysis on Customer Feedbacks <br>
+<a href="http://extensodata.com/"> Extensodata Pvt. Ltd. </a> | Jul 2018 - Jun 2019<br><br>
 ### Hadoop cluster setup automation on Local and AWS <br>
+<a href="http://extensodata.com/"> Extensodata Pvt. Ltd. </a> | Jul 2018 - Jun 2019<br><br>
 
 ## Awards and Honors
 
