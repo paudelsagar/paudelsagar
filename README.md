@@ -121,3 +121,5 @@ Cohort analysis is a kind of behavioral analytics that breaks the data in a data
 Employee of the Year Award 2022
 
 ## Certifications
+■ Become an AI and Machine Learning Specialist, Part II and Part II (LinkedIn)
+■ Building Deep Learning Applications with Keras 2.0
