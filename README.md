@@ -84,18 +84,23 @@ The architecture designer and developer of FoneloanBiz Engine.<br>
 It's an honor and privilege to be the 𝐚𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐝𝐞𝐬𝐢𝐠𝐧𝐞𝐫 𝐚𝐧𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 of Foneloan Engine i.e. 𝐃𝐞𝐜𝐢𝐬𝐢𝐨𝐧 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬. The Decision Analytics engine measures the credit riskiness by calculating credit score along with the appropriate credit limit for the Foneloan by analyzing 𝐡𝐢𝐬𝐭𝐨𝐫𝐢𝐜𝐚𝐥 𝐛𝐞𝐡𝐚𝐯𝐢𝐨𝐫𝐬 of the customers using 𝐬𝐨𝐩𝐡𝐢𝐬𝐭𝐢𝐜𝐚𝐭𝐞𝐝 𝐚𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 (𝐀𝐈). The credit score meeting cut-off score are selected as eligible customers for the Foneloan and service will be available in the corresponding Mobile Bank App. It provides both Non-EMI and EMI-based loans along with the BNPL facility. It is highly influenced by the FICO score, however, it has its own architecture, algorithms, and decision criteria designed after a couple of years of analysis of the behaviors of the customers.
 Currently, Fonloan is providing its service in multiple banks in Nepal such as 𝐍𝐚𝐛𝐢𝐥, 𝐊𝐮𝐦𝐚𝐫𝐢, 𝐋𝐚𝐱𝐦𝐢, 𝐂𝐢𝐭𝐢𝐳𝐞𝐧, 𝐚𝐧𝐝 𝐌𝐞𝐠𝐚 𝐁𝐚𝐧𝐤. Other banks are in pipeline and the company has a target of reaching 10 banks this fiscal year. For further details, visit this site https://foneloan.com.np/
 
-### Anomaly Detection System (ADS) <br>
-<a href="http://extensodata.com/"> Extensodata Pvt. Ltd. </a> | Jul 2018 - Jun 2019<br><br>
 ### Airticket Forecasting <br>
-<a href="http://extensodata.com/"> Extensodata Pvt. Ltd. </a> | Jul 2018 - Jun 2019<br><br>
-### Survival Analysis <br>
-<a href="http://extensodata.com/"> Extensodata Pvt. Ltd. </a> | Jul 2018 - Jun 2019<br><br>
+<a href="http://extensodata.com/"> Extensodata Pvt. Ltd. </a> | Jan 2020 - Mar 2020<br><br>
+
 ### Product Recommender System <br>
-<a href="http://extensodata.com/"> Extensodata Pvt. Ltd. </a> | Jul 2018 - Jun 2019<br><br>
+<a href="http://extensodata.com/"> Extensodata Pvt. Ltd. </a> | Aug 2019 - Dec 2019<br><br>
+
 ### Sentiment Analysis on Customer Feedbacks <br>
-<a href="http://extensodata.com/"> Extensodata Pvt. Ltd. </a> | Jul 2018 - Jun 2019<br><br>
+<a href="http://extensodata.com/"> Extensodata Pvt. Ltd. </a> | Jun 2019 - Jul 2019<br><br>
+
+### Survival Analysis <br>
+<a href="http://extensodata.com/"> Extensodata Pvt. Ltd. </a> | Mar 2019 - May 2019<br><br>
+
 ### Hadoop cluster setup automation on Local and AWS <br>
-<a href="http://extensodata.com/"> Extensodata Pvt. Ltd. </a> | Jul 2018 - Jun 2019<br><br>
+<a href="http://extensodata.com/"> Extensodata Pvt. Ltd. </a> | Sep 2018 - Oct 2018<br><br>
+
+### Anomaly Detection System (ADS) <br>
+<a href="http://extensodata.com/"> Extensodata Pvt. Ltd. </a> | May 2018 - Aug 2018<br><br>
 
 ## Awards and Honors
 
