@@ -75,9 +75,15 @@ Hi, I'm Sagar Paudel. I’ve been working for over 4 years as a data scientist i
 
 ## Projects
 ### FoneloanBiz <br>
-<a href="http://extensodata.com/"> Extensodata Pvt. Ltd. </a> | Jul 2018 - Jun 2019<br><br>
+<a href="http://extensodata.com/"> Extensodata Pvt. Ltd. </a> | Mar 2022 - Present <br><br>
+The architecture designer and developer of FoneloanBiz Engine.<br>
+
 ### Foneloan <br>
-<a href="http://extensodata.com/"> Extensodata Pvt. Ltd. </a> | Jul 2018 - Jun 2019<br><br>
+<a href="http://extensodata.com/"> Extensodata Pvt. Ltd. </a> | Apr 2020 - Present <br><br>
+𝐅𝐨𝐧𝐞𝐥𝐨𝐚𝐧 is a revolutionary AI-based 𝐂𝐫𝐞𝐝𝐢𝐭 𝐒𝐜𝐨𝐫𝐢𝐧𝐠 product first time in Nepal. It is a non-collateralized virtual credit card service that provides a hassle-free loan of up to 2lakh within a few seconds without any paperwork. Foneloan has leveraged Lending Services to the next level within a few years of its service by completely bypassing tedious and risky manual loan processes and establishing an automated AI-based Foneloan product.
+It's an honor and privilege to be the 𝐚𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐝𝐞𝐬𝐢𝐠𝐧𝐞𝐫 𝐚𝐧𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 of Foneloan Engine i.e. 𝐃𝐞𝐜𝐢𝐬𝐢𝐨𝐧 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬. The Decision Analytics engine measures the credit riskiness by calculating credit score along with the appropriate credit limit for the Foneloan by analyzing 𝐡𝐢𝐬𝐭𝐨𝐫𝐢𝐜𝐚𝐥 𝐛𝐞𝐡𝐚𝐯𝐢𝐨𝐫𝐬 of the customers using 𝐬𝐨𝐩𝐡𝐢𝐬𝐭𝐢𝐜𝐚𝐭𝐞𝐝 𝐚𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 (𝐀𝐈). The credit score meeting cut-off score are selected as eligible customers for the Foneloan and service will be available in the corresponding Mobile Bank App. It provides both Non-EMI and EMI-based loans along with the BNPL facility. It is highly influenced by the FICO score, however, it has its own architecture, algorithms, and decision criteria designed after a couple of years of analysis of the behaviors of the customers.
+Currently, Fonloan is providing its service in multiple banks in Nepal such as 𝐍𝐚𝐛𝐢𝐥, 𝐊𝐮𝐦𝐚𝐫𝐢, 𝐋𝐚𝐱𝐦𝐢, 𝐂𝐢𝐭𝐢𝐳𝐞𝐧, 𝐚𝐧𝐝 𝐌𝐞𝐠𝐚 𝐁𝐚𝐧𝐤. Other banks are in pipeline and the company has a target of reaching 10 banks this fiscal year. For further details, visit this site https://foneloan.com.np/
+
 ### Anomaly Detection System (ADS) <br>
 <a href="http://extensodata.com/"> Extensodata Pvt. Ltd. </a> | Jul 2018 - Jun 2019<br><br>
 ### Airticket Forecasting <br>
