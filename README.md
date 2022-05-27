@@ -7,17 +7,16 @@ Hi, I'm Sagar Paudel. I’ve been working for over 4 years as a data scientist i
 ■ One of the popular products is Foneloan.<br><br>
 
 ## Primary Jobs
-■ Research on standard practices and new technologies.<br>
-■ Understanding the business problems.<br>
-■ Requirements elicitation.<br>
-■ Technical feasibility study.<br>
+■ Team Support and Mentorship.<br>
+■ Architecture Designer of DS Product.<br>
+■ Technical Feasibility Study.<br>
+■ Proof of Concept (POC).<br>
+■ Coordination with Business Team.<br>
+■ Standardization of Data Science Practices.<br>
+■ Product-specific Algorithm Development.<br>
+■ EDA and Feature Engineering.<br>
+■ End to End Engine Development.<br>
 ■ ETL Pipeline.<br>
-■ Exploratory data analysis.<br>
-■ Feature Engineering.<br>
-■ Modeling<br>
-■ Production level software development.<br>
-■ Environment setup for the product deployment.<br>
-■ Team support and mentorship.<br>
 
 ## Technical Skills
 ■ 𝐀𝐫𝐭𝐢𝐟𝐢𝐜𝐢𝐚𝐥 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐜𝐞: Data Science(primary), Machine Learning, Deep Learning, NLP(enthusiast), Computer Vision(enthusiast), Reinforcement Learning(enthusiast). <br>
