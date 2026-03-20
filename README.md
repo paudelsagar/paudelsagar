@@ -86,3 +86,38 @@ flowchart TD
     D --> J["Structured Output"]
     J --> K["Decision Engine"]
     K --> L["Database / Downstream System"]
+```
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, SQL, R |
+| **ML & Stats** | scikit-learn, XGBoost, LightGBM, CatBoost, Statsmodels, PyMC, Lifelines, SHAP, LIME |
+| **Deep Learning & GenAI** | PyTorch, TensorFlow, Transformers, LangChain, LangGraph, CrewAI, Google GenAI, MCP |
+| **Data & Infra** | Spark, Kafka, Flink, Airflow, Kubeflow, MLflow, Docker, Kubernetes, AWS (S3, SageMaker), MinIO |
+
+---
+
+## 📂 What You’ll Find on My GitHub
+* End-to-end ML system design (not just notebooks)
+* Agentic AI workflows with real-world use cases
+* Scalable RAG pipelines with evaluation
+* Production-ready FastAPI services
+* Clean, modular, and reproducible code
+
+---
+
+## 💡 Philosophy
+> *"If it’s not in production, it’s a prototype."*
+
+* Focus on scalability, reliability, and measurable impact
+* Prefer simple, explainable systems over unnecessary complexity
+* Treat data + models + infra as one system
+
+---
+
+## 📫 Let’s Connect
+If you're working on **Agentic AI**, **RAG systems**, or **Scalable ML infrastructure**, I’m always open to collaborating or exchanging ideas. Let's connect!
