@@ -1,90 +1,88 @@
-# Sagar Paudel - Lead Data Scientist
+# 👨‍💻 Sagar Paudel | Lead Data Scientist
 
-📍 Kathmandu, Nepal | ✉️ [sagar.paudel18@gmail.com](mailto:sagar.paudel18@gmail.com)
+## 🚀 About Me
+* I build production-grade AI systems that combine Machine Learning, Generative AI, and scalable infrastructure to solve high-impact, real-world problems.
+* With 8+ years of experience, my work has evolved from classical ML systems to end-to-end Agentic AI architectures, where LLMs are orchestrated with tools, memory, and workflows to automate complex decision-making.
+* Currently, I work as a Lead Data Scientist, designing systems that power credit risk, fraud detection, and financial intelligence at scale, supporting 5M+ predictions per month across an NPR 9B+ lending portfolio.
+* I am also actively developing **SystemX**, a Linux server management software, and **MLfy**, an Auto ML platform to streamline machine learning workflows.
 
-## About Me
+---
 
-Lead Data Scientist with 8+ years of experience building **production-scale machine learning systems** in financial services. I specialize in credit risk, fraud detection, recommendation systems, and time series forecasting. I lead data science teams to deliver impactful AI solutions, improving model performance, automating decision-making, and increasing operational efficiency.
+## 🏗️ What I Work On
 
+### 🤖 Agentic AI Systems (LLM + Tools + Orchestration)
+**Designing multi-step reasoning systems using:**
+* LangChain, LangGraph, CrewAI, Google ADK, MCP
 
-## Key Achievements
+**Building RAG pipelines:**
+* Hybrid retrieval (BM25 + dense embeddings)
+* Vector stores (FAISS, Chroma, Elasticsearch)
+* Re-ranking strategies for improved grounding
 
-* Led a **10-member team** delivering 5+ production ML models for an **NPR 9B+ lending portfolio**, supporting **5M+ monthly predictions**.
-* Improved predictive model performance by **46%** and reduced deployment cycles by **39%** through standardized ML pipelines.
-* Developed **real-time fraud and AML systems**, increasing detection rate by **63%** while reducing false positives by **92%**.
-* Built **agentic AI workflows** reducing manual credit evaluation effort by **42%** and improving loan processing efficiency by **33%**.
-* Implemented recommendation systems improving **cross-sell conversion by 28%** and targeted product engagement by **35%**.
-* Built time series forecasting pipelines enhancing **loan default trend prediction accuracy by 22%** and operational planning efficiency by **18%**.
+**Implementing:**
+* Tool calling agents (APIs, DBs, credit bureau parsing)
+* Memory (short-term + long-term + semantic retrieval)
+* Structured outputs (Pydantic, JSON schema validation)
 
-## Professional Experience
+**Use cases:**
+* Automated credit report analysis
+* Risk summarization agents
+* Decision-support systems
 
-### Lead Data Scientist
+### 🧠 Machine Learning Systems (Production)
+**End-to-end ML lifecycle:**
+* Feature engineering → model training → evaluation → deployment → monitoring
 
-**ExtensoData Pvt. Ltd., Lalitpur, Nepal** | Jan 2022 – Mar 2026
+**Models:**
+* Gradient Boosting: XGBoost, LightGBM, CatBoost
+* Statistical: GLM, survival models, Bayesian models (PyMC)
+* Deep Learning: LSTM, Transformers (NLP tasks)
 
-* Delivered production ML models for credit risk, fraud detection, recommendation systems, and forecasting.
-* Built scalable ML infrastructure supporting **5M+ monthly predictions** with monitoring, validation, and governance.
-* Developed real-time anomaly detection and AML monitoring systems.
-* Standardized ML pipelines reducing deployment cycles by 39%.
-* Led AI research and PoC initiatives, accelerating adoption of advanced ML techniques.
+**Core applications:**
+* Credit risk modeling (PD, LGD proxies)
+* Fraud & anomaly detection (PyOD, isolation forests)
+* Recommendation systems
+* Time series forecasting (Prophet, LSTM)
 
-### Senior Data Scientist
+**Metrics:**
+* AUC, KS, Gini, Precision-Recall, calibration
 
-**ExtensoData Pvt. Ltd., Lalitpur, Nepal** | Jul 2019 – Dec 2021
+### ⚙️ MLOps & ML Infrastructure
+**Pipeline orchestration & tracking:**
+* Airflow, Kubeflow Pipelines
+* MLflow, Git, DVC
 
-* Developed credit risk and anomaly detection models improving predictive performance by 24%.
-* Built time series forecasting pipelines improving transaction trend accuracy by 20%.
-* Processed 1M+ records monthly through data pipelines for lending risk analysis.
+**Deployment & Scaling:**
+* FastAPI, Flask (REST APIs) for batch + real-time inference systems
+* Docker, Kubernetes
 
-### Data Scientist
+**Monitoring & CI/CD:**
+* Data drift, concept drift, performance monitoring
+* Automated training + deployment workflows
 
-**ExtensoData Pvt. Ltd., Lalitpur, Nepal** | Jul 2018 – Jun 2019
+### 💾 Data Engineering & Real-Time Systems
+* **Distributed processing:** Spark, PySpark, Hadoop ecosystem
+* **Streaming:** Kafka, Flink
+* **Storage & querying:** PostgreSQL, MySQL, ClickHouse, Cassandra
+* **Data lake:** S3, MinIO, Iceberg
+* **ETL/ELT:** dbt, Airflow pipelines
+* **Event-driven architectures:** Real-time fraud detection pipelines
 
-* Built predictive models for credit risk and customer behavior analysis.
-* Conducted EDA and feature engineering on large financial datasets.
-* Automated risk reporting and analytics pipelines, reducing manual effort.
+---
 
-## Education
+## 🏛️ Example System Architecture
 
-* **MSc. Data Science**, Manipal Academy of Higher Education (MAHE), Karnataka, India | Apr 2023 – Apr 2025
-* **Bachelor of Computer Engineering**, Tribhuvan University, Kathmandu, Nepal | Jul 2014 – Jul 2018
-
-## Technical Skills
-
-**Programming & Tools:** Python, SQL, PySpark, Pandas, NumPy, SciPy, DuckDB, Polars, StatsModels, Scikit-Learn, XGBoost, LightGBM, CatBoost, Prophet, TensorFlow, PyTorch, FastAPI, Flask, SpaCy, NLTK, LangChain, LangGraph, MCP, Pinecone, Transformers, Sentence-Transformers, PEFT, Google ADK, CREWAI, Shapely, LIME, MLflow, Airflow
-
-**Machine Learning & AI:** Supervised/Unsupervised Learning, Deep Learning, NLP, Computer Vision, LLM Fine-tuning, Feature Engineering, Explainable AI, Agentic AI, Bayesian Statistics
-
-**Production & Cloud:** MLOps, Drift Control, Airflow, Git, Docker, Kubernetes, CI/CD, AWS, Real-time Scoring Systems
-
-**Data Engineering:** Data Warehousing, ETL Pipelines, Spark Distributed Processing, DBT Transformations, Data Streaming, CDC
-
-**Analytics & Visualization:** Matplotlib, Seaborn, Plotly, Streamlit, Dashboarding, EDA
-
-**Governance & Compliance:** Responsible AI, Model Governance, Regulatory Compliance, AML & Transaction Monitoring
-
-## Soft Skills
-
-* Leadership & Team Management
-* Strategic Thinking
-* Communication & Storytelling
-* Cross-Functional Collaboration
-* Problem-Solving & Innovation
-* Change Management & Influence
-
-## Certifications
-
-* Risk Management Specialization – New York Institute of Finance | Mar 2025
-* Organization Planning and Development for 6σ Black Belt – Kennesaw State University | Mar 2025
-* Become an AI and Machine Learning Specialist, Part II – LinkedIn | Oct 2018
-
-## Awards
-
-* Employee of the Year – ExtensoData Pvt. Ltd | 2023
-* Employee of the Year – ExtensoData Pvt. Ltd | 2022
-
-## Languages
-
-* English – Proficient
-* Nepali – Native
-* Hindi – Proficient
+```mermaid
+flowchart TD
+    A["User / API Request"] --> B["API Layer (FastAPI)"]
+    B --> C["Orchestrator (LangGraph / CrewAI)"]
+    C --> D["LLM (OpenAI / Google GenAI)"]
+    C --> E["Tools Layer"]
+    E --> F["Vector DB (FAISS / Chroma)"]
+    E --> G["Feature Store (Feast)"]
+    E --> H["External APIs / Credit Bureau"]
+    C --> I["Memory Layer"]
+    I --> F
+    D --> J["Structured Output"]
+    J --> K["Decision Engine"]
+    K --> L["Database / Downstream System"]
