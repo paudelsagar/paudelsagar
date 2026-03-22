@@ -1,4 +1,4 @@
-# 👨‍💻 Sagar Paudel | Lead Data Scientist
+# 👨‍💻 Sagar Paudel | Lead AI / ML Engineer
 
 ## 🚀 About Me
 * I build production-grade AI systems that combine Machine Learning, Generative AI, and scalable infrastructure to solve high-impact, real-world problems.
